@@ -1,1 +1,2 @@
-print("hello world")
+import constant
+print(constant.GREETINGS)
