@@ -16,8 +16,6 @@ def calculator():
 
     print("3. Multiplication (*)")
 
-    print("4. Division (/)")
-
     print("5. Modulus (%)")
 
     print("6. Exponent (**)")
